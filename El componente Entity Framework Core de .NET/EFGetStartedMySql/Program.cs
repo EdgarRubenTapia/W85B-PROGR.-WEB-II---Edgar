@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace EFGetStarted
+namespace EFGetStartedMySql
 {
     internal class Program
     {
