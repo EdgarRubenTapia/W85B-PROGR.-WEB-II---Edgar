@@ -1,0 +1,5 @@
+C:\Users\edgar\OneDrive\Documentos\Ivan\WEB II\W85B-PROGR.-WEB-II---Edgar\El componente Entity Framework Core de .NET\EFGetStartedMySql\obj\Debug\net5.0\EFGetStartedMySql.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\Ivan\WEB II\W85B-PROGR.-WEB-II---Edgar\El componente Entity Framework Core de .NET\EFGetStartedMySql\obj\Debug\net5.0\EFGetStartedMySql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Documentos\Ivan\WEB II\W85B-PROGR.-WEB-II---Edgar\El componente Entity Framework Core de .NET\EFGetStartedMySql\obj\Debug\net5.0\EFGetStartedMySql.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Documentos\Ivan\WEB II\W85B-PROGR.-WEB-II---Edgar\El componente Entity Framework Core de .NET\EFGetStartedMySql\obj\Debug\net5.0\EFGetStartedMySql.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Documentos\Ivan\WEB II\W85B-PROGR.-WEB-II---Edgar\El componente Entity Framework Core de .NET\EFGetStartedMySql\obj\Debug\net5.0\EFGetStartedMySql.csproj.CoreCompileInputs.cache

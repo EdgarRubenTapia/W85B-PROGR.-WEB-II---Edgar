@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EFGetStarted_MySql
+namespace EFGetStartedMySql
 {
     class Program
     {
